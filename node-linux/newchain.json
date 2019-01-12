@@ -1,3 +1,0 @@
-{
-  "run_list": ["recipe[multi_chain]", "recipe[multi_chain::create]"]
-}
