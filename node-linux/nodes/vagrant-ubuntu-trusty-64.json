@@ -16,12 +16,21 @@
       "directory": "/tmp"
     },
     "software": {
+<<<<<<< HEAD
       "multichain": "multichain-2.0-beta-1.tar.gz"
     },
     "blockchain": {
       "name": "testchain",
       "ip": "139.180.202.167",
       "port": "2651"
+=======
+      "multichain": "multichain-1.0.6.tar.gz"
+    },
+    "blockchain": {
+      "name": "mytestchain",
+      "ip": "154.0.164.32",
+      "port": "2679"
+>>>>>>> e4e1008bd5598784c8ae6d88383a8c1dbf91544c
     }
   },
   "automatic": {
